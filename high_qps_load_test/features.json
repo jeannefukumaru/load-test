@@ -1,18 +1,12 @@
 {
-    "dataframe_records": [
-        {
-            "fixed_acidity": 7.6,
-            "volatile_acidity": 0.31,
-            "citric_acid": 0.29,
-            "residual_sugar": 10.5,
-            "chlorides": 0.04,
-            "free_sulfur_dioxide": 21,
-            "total_sulfur_dioxide": 145,
-            "density": 0.9966,
-            "pH": 3,
-            "sulphates": 0.76,
-            "alcohol": 9.6,
-            "is_red": 0
-        }
-    ]
-}
+    "dataframe_split": {
+      "columns": [
+        "x"
+      ],
+      "data": [
+        [
+          0
+        ]
+      ]
+    }
+  }
